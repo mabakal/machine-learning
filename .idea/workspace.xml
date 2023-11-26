@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="418a8310-a4c6-485b-aa19-a106b440ae69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/machine learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithme/classification/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithme/clustering/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithme/optimization/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithme/regression/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithme/regression/linearmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/computer_hardware/Index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/computer_hardware/machine.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/computer_hardware/machine.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/wine/winequality.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/wine/winequalityred.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/wine/winequalitywhite.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithme/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithme/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithme/optimization/optimisation.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YSLNU09DX5BIZKSFDaYzxSywWp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dibe",
+    "last_opened_file_path": "/Users/dibe/Documents/GitHub/machine_learning",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithme" />
+      <recent name="$PROJECT_DIR$/algorithme/classification" />
+      <recent name="$PROJECT_DIR$/optimization" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="418a8310-a4c6-485b-aa19-a106b440ae69" name="Changes" comment="" />
+      <created>1700513997314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700513997314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
