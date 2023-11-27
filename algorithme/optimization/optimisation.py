@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def sgd(x, etha, w0, iterate, error, gradiantcost):
 	"""
 	Purpose: Find the optimal with stochastique gradiant descents method
@@ -17,7 +18,7 @@ def sgd(x, etha, w0, iterate, error, gradiantcost):
 		w : weight
 	"""
 	wp = w0
-	w  = wp
+	w = wp
 	find = False
 	for i in range(iterate):
 		j = np.random.randint(0, x.shape[0]-1)
