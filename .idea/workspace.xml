@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="418a8310-a4c6-485b-aa19-a106b440ae69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithme/classification/knn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithme/regression/linearModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithme/classification/logistique.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optimisation.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dibe/Documents/GitHub/machine-learning&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dibe/Documents/GitHub/Mabakal/machine-learning&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
